@@ -3,4 +3,4 @@
 # sajt gép bejegyzés
 itt voltam 13:37-kor
 a
-# szi lya akozs
+# konfliktus történt !!!41
