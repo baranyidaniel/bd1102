@@ -2,5 +2,5 @@
 # gépről írtam :-)
 # sajt gép bejegyzés
 itt voltam 13:37-kor
-# a
-új sor
+a
+# szi lya akozs
