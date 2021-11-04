@@ -14,10 +14,7 @@ ffffffffffffffffff
 # XD
 # got out of bed
 # :(
-<<<<<<< HEAD
 
 # asdasdasda
 # nnnnnnnnnnnnnnnnnnnnnnnnnnnn
-=======
 # asdasdasda
->>>>>>> 7d90806ae3c8efa5e215328ab202f874133d8e63
