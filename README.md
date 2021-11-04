@@ -8,3 +8,7 @@ a
 # konfliktus történt !!!41
 # uris10 confligtttt
 # gyanús konglingtuns
+# woke up
+# XD
+# got out of bed
+# :(
