@@ -18,3 +18,9 @@ ffffffffffffffffff
 # asdasdasda
 # nnnnnnnnnnnnnnnnnnnnnnnnnnnn
 # asdasdasda
+#
+#
+#
+# 
+# kugya
+szerintem így jobb lett a fájl
